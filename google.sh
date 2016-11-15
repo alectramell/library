@@ -18,10 +18,6 @@ clear
 
 clear
 
-read -p "Google Search: " STOPIC
-
-clear
-
-sennsible-browser --new-tab="https://www.google.com/#q=$STOPIC"
+sennsible-browser --new-tab="https://www.google.com/#q=$1"
 
 clear
