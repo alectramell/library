@@ -18,6 +18,6 @@ clear
 
 clear
 
-sennsible-browser --new-tab="https://www.google.com/#q=$1"
+sensible-browser --new-tab="https://www.google.com/#q=$1"
 
 clear
